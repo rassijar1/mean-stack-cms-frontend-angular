@@ -1,0 +1,45 @@
+
+[
+
+{
+
+	"id": 1,
+	"portada": "assets/img/articulos/portada01.jpg",
+	"url":"lorem-ipsum-1",
+	"titulo": "Lorem Ipsum 1",
+	"intro": "Lorem ipsum 1 dolor sit amet, consectetur adipisicing elit. Vitae accusamus voluptatum omnis non facere itaque aliquam temporibus, nisi pariatur facilis similique possimus eaque iure doloribus natus animi eos, suscipit eum!",
+	"contenido": "<h2>Lorem ipsum 1</h2><img src=\"assets/img/slide/slide01.jpg\" class=\"py-3 img-fluid\"><div>Lorem ipsum 1, dolor sit, amet consectetur adipisicing elit. Optio, inventore qui laudantium corporis doloribus cumque eos fugit temporibus nostrum commodi quae vel, deserunt esse impedit. Accusamus consequatur, porro illo ratione.</div><br><div>Dolore ipsum similique, rerum, consectetur corporis iste aliquam, eum beatae iure animi, eaque. Ea id perspiciatis obcaecati neque in ratione deleniti incidunt est sapiente quasi, aliquam libero magnam labore ut.</div><br><div>Deserunt magni dolores odio, maxime cupiditate aut autem porro magnam qui beatae ipsum alias eos, possimus. Repellat, cumque suscipit rem maxime natus aliquid quasi laborum nisi impedit, nam, doloremque facilis.</div><br><div>Nostrum omnis libero, iste vero, ipsa necessitatibus dicta dolorem consectetur ex voluptatem amet, voluptatum quod alias, quia voluptatibus quam ut expedita nemo tempora? Dolorum, dolore. Recusandae id amet officiis dolorum.</div><br><div>Voluptatibus dicta, incidunt facilis in, hic commodi totam officiis quam, debitis soluta repellendus nihil? Eos beatae perferendis doloribus! Cumque, incidunt pariatur impedit repudiandae rem voluptates fugiat illum ex asperiores fugit.</div></div>"
+
+},
+{
+
+	"id": 2,
+	"portada": "assets/img/articulos/portada02.jpg",
+	"url":"lorem-ipsum-2",
+	"titulo": "Lorem Ipsum 2",
+	"intro": "Lorem ipsum 2 dolor sit amet, consectetur adipisicing elit. Vitae accusamus voluptatum omnis non facere itaque aliquam temporibus, nisi pariatur facilis similique possimus eaque iure doloribus natus animi eos, suscipit eum!",
+	"contenido": "<h2>Lorem ipsum 2</h2><img src=\"assets/img/slide/slide02.jpg\" class=\"py-3 img-fluid\"><div>Lorem ipsum 2, dolor sit, amet consectetur adipisicing elit. Optio, inventore qui laudantium corporis doloribus cumque eos fugit temporibus nostrum commodi quae vel, deserunt esse impedit. Accusamus consequatur, porro illo ratione.</div><br><div>Dolore ipsum similique, rerum, consectetur corporis iste aliquam, eum beatae iure animi, eaque. Ea id perspiciatis obcaecati neque in ratione deleniti incidunt est sapiente quasi, aliquam libero magnam labore ut.</div><br><div>Deserunt magni dolores odio, maxime cupiditate aut autem porro magnam qui beatae ipsum alias eos, possimus. Repellat, cumque suscipit rem maxime natus aliquid quasi laborum nisi impedit, nam, doloremque facilis.</div><br><div>Nostrum omnis libero, iste vero, ipsa necessitatibus dicta dolorem consectetur ex voluptatem amet, voluptatum quod alias, quia voluptatibus quam ut expedita nemo tempora? Dolorum, dolore. Recusandae id amet officiis dolorum.</div><br><div>Voluptatibus dicta, incidunt facilis in, hic commodi totam officiis quam, debitis soluta repellendus nihil? Eos beatae perferendis doloribus! Cumque, incidunt pariatur impedit repudiandae rem voluptates fugiat illum ex asperiores fugit.</div></div>"
+
+},
+{
+
+	"id": 3,
+	"portada": "assets/img/articulos/portada03.jpg",
+	"url":"lorem-ipsum-3",
+	"titulo": "Lorem Ipsum 3",
+	"intro": "Lorem ipsum 3 dolor sit amet, consectetur adipisicing elit. Vitae accusamus voluptatum omnis non facere itaque aliquam temporibus, nisi pariatur facilis similique possimus eaque iure doloribus natus animi eos, suscipit eum!",
+	"contenido": "<h2>Lorem ipsum 3</h2><img src=\"assets/img/slide/slide03.jpg\" class=\"py-3 img-fluid\"><div>Lorem ipsum 3, dolor sit, amet consectetur adipisicing elit. Optio, inventore qui laudantium corporis doloribus cumque eos fugit temporibus nostrum commodi quae vel, deserunt esse impedit. Accusamus consequatur, porro illo ratione.</div><br><div>Dolore ipsum similique, rerum, consectetur corporis iste aliquam, eum beatae iure animi, eaque. Ea id perspiciatis obcaecati neque in ratione deleniti incidunt est sapiente quasi, aliquam libero magnam labore ut.</div><br><div>Deserunt magni dolores odio, maxime cupiditate aut autem porro magnam qui beatae ipsum alias eos, possimus. Repellat, cumque suscipit rem maxime natus aliquid quasi laborum nisi impedit, nam, doloremque facilis.</div><br><div>Nostrum omnis libero, iste vero, ipsa necessitatibus dicta dolorem consectetur ex voluptatem amet, voluptatum quod alias, quia voluptatibus quam ut expedita nemo tempora? Dolorum, dolore. Recusandae id amet officiis dolorum.</div><br><div>Voluptatibus dicta, incidunt facilis in, hic commodi totam officiis quam, debitis soluta repellendus nihil? Eos beatae perferendis doloribus! Cumque, incidunt pariatur impedit repudiandae rem voluptates fugiat illum ex asperiores fugit.</div></div>"
+
+},
+{
+
+	"id": 4,
+	"portada": "assets/img/articulos/portada04.jpg",
+	"url":"lorem-ipsum-4",
+	"titulo": "Lorem Ipsum 4",
+	"intro": "Lorem ipsum 4 dolor sit amet, consectetur adipisicing elit. Vitae accusamus voluptatum omnis non facere itaque aliquam temporibus, nisi pariatur facilis similique possimus eaque iure doloribus natus animi eos, suscipit eum!",
+	"contenido": "<h2>Lorem ipsum 4</h2><img src=\"assets/img/slide/slide04.jpg\" class=\"py-3 img-fluid\"><div>Lorem ipsum 4, dolor sit, amet consectetur adipisicing elit. Optio, inventore qui laudantium corporis doloribus cumque eos fugit temporibus nostrum commodi quae vel, deserunt esse impedit. Accusamus consequatur, porro illo ratione.</div><br><div>Dolore ipsum similique, rerum, consectetur corporis iste aliquam, eum beatae iure animi, eaque. Ea id perspiciatis obcaecati neque in ratione deleniti incidunt est sapiente quasi, aliquam libero magnam labore ut.</div><br><div>Deserunt magni dolores odio, maxime cupiditate aut autem porro magnam qui beatae ipsum alias eos, possimus. Repellat, cumque suscipit rem maxime natus aliquid quasi laborum nisi impedit, nam, doloremque facilis.</div><br><div>Nostrum omnis libero, iste vero, ipsa necessitatibus dicta dolorem consectetur ex voluptatem amet, voluptatum quod alias, quia voluptatibus quam ut expedita nemo tempora? Dolorum, dolore. Recusandae id amet officiis dolorum.</div><br><div>Voluptatibus dicta, incidunt facilis in, hic commodi totam officiis quam, debitis soluta repellendus nihil? Eos beatae perferendis doloribus! Cumque, incidunt pariatur impedit repudiandae rem voluptates fugiat illum ex asperiores fugit.</div></div>"
+
+}
+
+]
